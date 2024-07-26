@@ -11,21 +11,47 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
       Your answer...
+Good data visualization:KPI Designs by Luke Stanke
+https://public.tableau.com/app/profile/stanke/viz/KPIDesigns/KPIDesign
+
+This dashboard is a good data visualization. It shows Key Performance Indicators (KPIs) using different types of charts like bar charts and line graphs. Here’s why it’s good:
+
+1. Clear and Simple: The charts are easy to read because they are not cluttered. Each chart has enough space, so it’s not overwhelming to look at. The colors used are distinct, which makes it easy to tell different data points apart.
+
+2. Well-Labeled: All the charts have clear labels and legends. This helps viewers understand what they are looking at without guessing. For example, each bar or line in the chart is labeled, so you know exactly what data it represents.
+
+3. Interactive: The dashboard is interactive. This means you can click on different parts of the charts to get more information. This feature makes it engaging and allows viewers to explore the data more deeply.
+
+4. Organized Layout: The layout is clean and organized. Information is grouped in a way that makes sense, guiding the viewer’s eye through the data naturally.
+
+This visualization follows the principles we learned about how to make data easy to understand and visually appealing. It uses clear lines, distinct colors, and proper spacing, which are all important for good data visualization
 
 
+Bad data visualization:Line graphs by Meg Profile #2
+https://public.tableau.com/app/profile/meg.profile.2/viz/Linegraphs_0/Dashboard1
 
+This line graph dashboard is an example of poor data visualization. It shows multiple line graphs with many overlapping lines, making it very confusing. Here’s why it’s not effective:
 
+1. Too Cluttered: The graphs are filled with too many lines that overlap. This makes it hard to tell which line is which, much like trying to follow a conversation with too many people talking at once. It’s overwhelming and hard to understand.
 
+2. Similar Colors: The lines are in colors that are too similar, so it’s difficult to distinguish one from another. Good visualizations use distinct colors to help viewers easily tell the difference between data points.
+
+3. Lack of Labels: There are not enough labels on the lines or a clear legend to explain what each line represents. Without these, viewers can’t easily figure out what the data is about, leading to confusion.
+
+4. Poor Design: The overall design is not user-friendly. It does not guide the viewer’s eye in a logical way, making it hard to extract meaningful information from the data.
 
 
       ```
     - How could this data visualization have been improved?  
       ```
       Your answer...
+   
+To make this visualization better, several changes are needed:
 
-
-
-
+1. Simplify the Graphs: Reduce the number of lines in each graph to avoid overlap. Alternatively, separate the data into different graphs.
+2. Use Distinct Colors: Apply a variety of colors that are easily distinguishable from one another.
+3. Add Clear Labels: Ensure each line is clearly labeled and include a comprehensive legend to help viewers understand the data.
+4. Provide Context: Add explanations or notes about the data to help viewers understand the significance of the information presented.
 
 
       
