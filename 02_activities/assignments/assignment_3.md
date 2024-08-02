@@ -7,14 +7,37 @@
 - For each visualization: 
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
         ```
-        Your answer...
+Good Data Visualization: KPI Designs by Luke Stanke
+Accessibility: This visualization is easy for everyone to use, including those with disabilities. It uses different, distinct colors to show various data points, making it easier for people who have difficulty seeing colors. You can click on parts of the charts to see more details, which makes it interactive and engaging. The clear and spacious design ensures that all users, including those with cognitive challenges, can easily understand the data.
+
+Reproducibility: Reproducibility means that someone else can recreate the same charts with the same data. This visualization does well here because it has clear labels and explanations for each part of the chart. The organized layout makes it easy to follow and understand how the data was processed. This means other people can replicate the visualization accurately by following the steps and data sources provided.
+
+Equitability: Equitability means that the visualization is fair and does not mislead or bias the viewer. This dashboard presents data in a balanced way without emphasizing certain data points over others. The simple design makes it easy for everyone to understand, regardless of their knowledge level. This ensures fair access to the information and helps people make informed decisions.
+
+Bad Data Visualization: Line Graphs by Meg Profile #2
+Accessibility: This visualization is not user-friendly. It uses similar colors for many lines, making it hard for color-blind people to tell the lines apart. The graphs are cluttered with too many overlapping lines, which makes it confusing and difficult for everyone, especially those with cognitive disabilities, to understand the data.
+
+Reproducibility: This visualization is hard to reproduce because it doesn’t have enough labels or a clear legend to explain what each line represents. Without proper explanations and clarity, others can’t easily replicate the visualization. The complex design and lack of context make it challenging to recreate the charts accurately.
+
+Equitability: This visualization is not fair because it can easily mislead viewers. The cluttered lines and lack of clear differentiation can cause confusion and incorrect interpretations of the data. This goes against the principle of presenting data truthfully and fairly. Presenting too much data without proper context overwhelms viewers and fails to provide an equitable view of the data, making it hard for everyone to understand.
 
 
 
         ```
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
         ```
-        Your answer...
+  Bad Data Visualization: Line Graphs by Meg Profile #2
+  Accessibility Improvements:
+  Add interactive features that allow users to isolate specific data lines, helping them focus on individual data points 
+  without visual clutter.
+
+  Reproducibility Improvements:
+  Ensure every line and data point is clearly labeled with a legend that explains what each line 
+  represents.
+
+  Equity Improvements:
+  Reduce the number of lines in a single graph. Consider breaking the data into multiple, simpler graphs that focus on m 
+  specific aspects of the data.
 
 
 
