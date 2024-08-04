@@ -8,22 +8,67 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
+    I used Python to create the data visualization.
 
-    > Who is your intended audience? 
+   > Who is your intended audience?
+    The intended audience for this visualization includes beachgoers, environmentalists, and city health officials.
     
-    > What information or message are you trying to convey with your visualization? 
+    > What information or message are you trying to convey with your visualization?
+     The visualization aims to show trends in water quality, specifically E. Coli levels, at different Toronto beaches over year 2024. This information helps assess the safety of the water for recreational activities and highlights any potential health risks
+
+    > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots?
+    Substantive: Ensure the plot clearly represents changes in water quality over time.
+    Perceptual: Use bright colors to represent different beaches and include a clear legend. Use a simple line plot to make trends easy to follow.
+    Aesthetic: Keep the design clean and straightforward with clear titles and labels. Avoid cluttering the plot with unnecessary details.
     
-    > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
+    > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization?
+    The Python script can be run by anyone with the dataset and the necessary libraries installed. The script should be well-commented to explain each step.
     
-    > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
+    > How did you ensure that your data visualization is accessible?
+    Use high-contrast colors and large, readable fonts. Provide clear explanations for what the plot shows.
     
-    > How did you ensure that your data visualization is accessible?  
+    > Who are the individuals and communities who might be impacted by your visualization?
+    The visualization impacts city planners by helping them identify areas that require attention. Residents and tourists benefit by being informed about 
+    water quality at various beaches.
     
-    > Who are the individuals and communities who might be impacted by your visualization?  
-    
-    > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
+    > How did you choose which features of your chosen dataset to include or exclude from your visualization?
+    Focus on key features like the date, E. Coli levels, and beach names. Exclude any irrelevant or overly technical details.
     
     > What ‘underwater labour’ contributed to your final data visualization product?
+    Efforts include data cleaning, code writing, and ensuring the plot is easy to understandable.
+    
+
+
+    - For each visualization, describe and justify: 
+    > What software did you use to create your data visualization?
+    I used Power BI to create my data visualization.
+
+    > Who is your intended audience?
+    The intended audience for this visualization includes beachgoers, environmentalists, and city health officials.
+    
+    > What information or message are you trying to convey with your visualization?
+    The visualization aims to show how the quality of water at Toronto beaches varies from year 2007 to 2024, specifically focusing on E. Coli levels. It helps beachgoers, environmentalists, and city health officials understand which beaches have better water quality and how this changes throughout the year.
+    
+    > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots?
+    Substantive: The visualization clearly presents data about water quality at different beaches over time. Each element is chosen to ensure that the data is accurately and effectively communicated.
+    Perceptual: I used bright and distinguishable colors to represent different beaches, making it easier to differentiate between them. Clear labels and a legend help the audience understand what each color represents.
+    Aesthetic: The design is clean and straightforward. I used easy-to-read fonts, a clear title, and labels to make the visualization aesthetically pleasing and engaging audience.
+    
+    > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization?
+    To ensure reproducibility, I documented the steps taken to create the visualization in Power BI. I also saved and shared the Power BI file so that others can open it and see exactly how the visualization was made. 
+    
+    > How did you ensure that your data visualization is accessible?
+    I ensured accessibility by using high-contrast colors and large, readable fonts. I also included descriptive labels and tooltips to provide additional context.
+    
+    > Who are the individuals and communities who might be impacted by your visualization?
+    Local community might be impacted by this visualization. By understanding water quality trends, they can make informed decisions about which beaches to visit and learn more about environmental health.
+    
+    > How did you choose which features of your chosen dataset to include or exclude from your visualization?
+    I included key features such as the date, E. Coli levels, and beach names. I excluded overly technical details and any data points that were not directly related to understanding water quality trends. 
+    
+    > What ‘underwater labour’ contributed to your final data visualization product?
+    Learning Power BI: Spending time understanding how to use Power BI to create effective visualizations.
+    Documentation: Writing up the steps taken to create the visualization to ensure reproducibility.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
